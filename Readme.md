@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Светлана Новикова](https://up.htmlacademy.ru/adaptive/26/user/2128385).
-* Наставник: [Артур Трифонов}(https://htmlacademy.ru/profile/wrgraff).
+* Наставник: [Артур Трифонов](https://htmlacademy.ru/profile/wrgraff).
 
 ---
 
